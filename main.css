@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+}
+
+#oclockD{
+    width: 40%;
+    height: 40%;
+    margin: 0px auto;
+    text-align: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+}
+
+.clock{
+    display: block;
+    color: darkgreen;
+    font-family: 'Roboto', sans-serif;
+    font-size: 300%;
+}
+
+.light{
+    color: #50ff00;
+}
